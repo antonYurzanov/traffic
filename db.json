@@ -1,0 +1,11 @@
+{
+  "posts": [
+    { "id": 1, "title": "Саратов", "traffic": 1000 },
+    { "id": 2, "title": "Москва", "traffic": 3000 },
+    { "id": 3, "title": "Тула", "traffic": 900 },
+    { "id": 4, "title": "Волгоград", "traffic": 70 },
+    { "id": 5, "title": "Балаково", "traffic": 130 },
+    { "id": 6, "title": "Тверь", "traffic": 3500 },
+    { "id": 7, "title": "Самара", "traffic": 600 }
+  ]
+}
